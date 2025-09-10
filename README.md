@@ -90,7 +90,7 @@ server/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/btwshivam/VeloRent.git
+   git clone https://github.com/rnt07s/VeloRent.git
    cd VeloRent
    ```
 
